@@ -2,15 +2,15 @@ $(document).ready(function(){
 
     // banner owl carousel
     $("#banner-area .owl-carousel").owlCarousel({
-        dots: true,
-        items: 1
+        dots: false,
+        items: 7
     });
 
     // top sale owl carousel
     $("#top-sale .owl-carousel").owlCarousel({
         loop: true,
-        nav: true,
-        dots: false,
+        nav: false,
+        dots: true,
         responsive : {
             0: {
                 items: 1
