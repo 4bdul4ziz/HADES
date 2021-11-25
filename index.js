@@ -6,8 +6,8 @@ $(document).ready(function(){
         items: 7
     });
 
-    // top sale owl carousel
-    $("#top-sale .owl-carousel").owlCarousel({
+    // on sale owl carousel
+    $("#on-sale .owl-carousel").owlCarousel({
         loop: true,
         nav: false,
         dots: true,
