@@ -19,7 +19,7 @@
 	- **Database** : MySQL
 	- **Server** : Apache
 	- **API** : PHP
----
+
 ## Preview
 
 ![chungus](https://user-images.githubusercontent.com/83113185/143598272-c42a9742-1636-4078-8904-27ba0a2866f2.gif)
