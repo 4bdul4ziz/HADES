@@ -8,6 +8,17 @@
 *E-commerce web-platform using MySQL and Apache Web Server **LAMP Stack **(for DBMS Class Fall '21)*
 
 
-<br>
+---
+## About
+**Health And Daily Essential Shop(HADES)** is an [E-Commerce](https://en.wikipedia.org/wiki/E-commerce) website for daily use grocereries (froots,vegetables,oils,grooming products etc.).
+
+---
+## Technologies
+- **Front-End** : HTML,SaSS, Vanila JS
+- **Back-end** : 
+	- Database :MySQL
+	- Server : Apache
+
+---
 <img src = "https://raw.githubusercontent.com/4bdul4ziz/HADES/master/assets/Banner1.png" width="100%">
 
