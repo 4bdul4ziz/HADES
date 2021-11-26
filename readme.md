@@ -20,12 +20,10 @@
 	- **Database** : MySQL
 	- **Server** : Apache
 	- **API** : PHP
----
+---![ye ye ass](https://user-images.githubusercontent.com/83113185/143599573-219a17cd-abba-4693-aa0a-03fbc8c4ada9.gif)
+
 ## Preview
-<div style="display:felx">
-	<img src="https://user-images.githubusercontent.com/83113185/143598272-c42a9742-1636-4078-8904-27ba0a2866f2.gif" width=100%>
-	<p>gay</p>
-</div>
+<img src="https://user-images.githubusercontent.com/83113185/143598272-c42a9742-1636-4078-8904-27ba0a2866f2.gif" width=50%>
 <br>
 For Interactive experience,click on the __*run on repl.it*__ button below
 
