@@ -11,7 +11,7 @@
 ## About
 **Health And Daily Essential Shop(HADES)** is an [E-Commerce](https://en.wikipedia.org/wiki/E-commerce) website for daily use grocereries (fruits,vegetables,oils,grooming products etc).
 <br>
- # [Lab Report](https://docs.google.com/document/d/1tWEe3Ce9wzwDsH9hZ4rnOY7B_LubyKs5/edit?usp=sharing&ouid=106660310415793676414&rtpof=true&sd=true)
+ # ![Lab Report](https://docs.google.com/document/d/1tWEe3Ce9wzwDsH9hZ4rnOY7B_LubyKs5/edit?usp=sharing&ouid=106660310415793676414&rtpof=true&sd=true)
 
 ---
 ## Technologies
