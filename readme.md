@@ -1,4 +1,4 @@
-<img src ="https://vit.ac.in/vit-rank/assets/img/VIT-logo.png" width="100%">
+<img src ="https://vit.ac.in/vit-rank/assets/img/VIT-logo.png" width="10%">
 
 # H.A.D.E.S - Health & Daily Essentials Shopping
 
