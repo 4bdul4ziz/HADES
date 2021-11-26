@@ -22,7 +22,9 @@
 	- **API** : PHP
 ---
 ## Preview
+<center>
 ![5vmbb5](https://user-images.githubusercontent.com/83113185/143598272-c42a9742-1636-4078-8904-27ba0a2866f2.gif)
+</center>
 <br>
 For Interactive experience,click on the __*run on repl.it*__ button below
 
