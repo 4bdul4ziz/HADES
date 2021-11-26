@@ -4,7 +4,7 @@
 # H.A.D.E.S - Health & Daily Essentials Shopping
 
 
-*E-commerce web-platform using MySQL , Apache Web Server , PHP and Linux ,i.e, __LAMP Stack__ (for DBMS Class Fall '21)*
+*E-commerce web-platform using MySQL,Apache Web Server,PHP and Linux,i.e, __LAMP Stack__ (for DBMS Class Fall '21)*
 
 
 ## About
