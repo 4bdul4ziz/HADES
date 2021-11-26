@@ -1,4 +1,4 @@
-<img src ="https://vit.ac.in/vit-rank/assets/img/VIT-logo.png" width="10%">
+<img src ="https://media.discordapp.net/attachments/770157071642525698/913758968483020810/VIT.PNG?width=1080&height=346" width="100%">
 <img src = "https://raw.githubusercontent.com/4bdul4ziz/HADES/master/assets/Banner1.png" width="100%" z-index="-1">
 
 # H.A.D.E.S - Health & Daily Essentials Shopping
