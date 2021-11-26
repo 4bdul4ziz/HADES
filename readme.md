@@ -13,7 +13,6 @@
 <br>
 ## [Lab Report](https://docs.google.com/document/d/1tWEe3Ce9wzwDsH9hZ4rnOY7B_LubyKs5/edit?usp=sharing&ouid=106660310415793676414&rtpof=true&sd=true)
 
----
 ## Technologies
 - **Front-End** : HTML,SaSS, Vanila JS
 - **Back-end** : 
