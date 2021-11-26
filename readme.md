@@ -1,4 +1,5 @@
 <img src ="https://vit.ac.in/vit-rank/assets/img/VIT-logo.png" width="10%">
+<img src = "https://raw.githubusercontent.com/4bdul4ziz/HADES/master/assets/Banner1.png" width="100%" z-index="-1">
 
 # H.A.D.E.S - Health & Daily Essentials Shopping
 
@@ -27,5 +28,5 @@ For Interactive experience,click on the __*run on repl.it*__ button below
 [![Run on Repl.it](https://repl.it/badge/github/4bdul4ziz/undefined)](https://repl.it/github/4bdul4ziz/undefined)
 
 ---
-<img src = "https://raw.githubusercontent.com/4bdul4ziz/HADES/master/assets/Banner1.png" width="100%">
+
 
