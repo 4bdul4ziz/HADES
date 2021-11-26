@@ -22,7 +22,7 @@
 ---
 ## Preview
 
-For Interactive experience,click on the __ *run on repl.it*__ button below
+For Interactive experience,click on the __*run on repl.it*__ button below
 
 [![Run on Repl.it](https://repl.it/badge/github/4bdul4ziz/undefined)](https://repl.it/github/4bdul4ziz/undefined)
 
