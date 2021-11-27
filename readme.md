@@ -4,18 +4,18 @@
 # H.A.D.E.S - Health & Daily Essentials Shopping
 
 
-*E-commerce web-platform using MySQL,Apache Web Server,PHP and Linux ,i.e, __LAMP Stack__ (for DBMS Class Fall '21)*
+*E-commerce web-platform using MySQL, InnoDB, Apache Web Server, PHP and Unix, MariaDB,i.e, __UMPIA Stack__ (for DBMS Class Fall '21)*
 
 
 ## About
-**Health And Daily Essential Shop(HADES)** is an [E-Commerce](https://en.wikipedia.org/wiki/E-commerce) website for daily use grocereries (fruits,vegetables,oils,grooming products etc).
+**Health And Daily Essential Shop(HADES)** is an [E-Commerce](https://en.wikipedia.org/wiki/E-commerce) website for daily use grocereries (fruits, vegetables, oils, diary products etc).
 <br>
 #### [Lab Report](https://docs.google.com/document/d/1tWEe3Ce9wzwDsH9hZ4rnOY7B_LubyKs5/edit?usp=sharing&ouid=106660310415793676414&rtpof=true&sd=true)
 
 ## Technologies
-- **Front-End** : HTML,SaSS, Vanila JS
+- **Front-End** : HTML, SaSS, JavaScript 
 - **Back-end** : 
-	- **Database** : MySQL
+	- **Database** : MySQL, MariaDB, Engine : InnoDB
 	- **Server** : Apache
 	- **API** : PHP
 
