@@ -3,7 +3,7 @@ $(document).ready(function(){
     // banner owl carousel
     $("#banner-area .owl-carousel").owlCarousel({
         dots: false,
-        items: 7
+        items: 1
     });
 
     // on sale owl carousel
