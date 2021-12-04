@@ -1,11 +1,11 @@
 <!-- Shopping cart section  -->
 <?php
-if ($_SERVER['REQUEST_METHOD'] == 'POST'){
-    if (isset($_POST['delete-cart-submit'])){
+if ($_SERVER['REQUEST_METHOD'] == 'POST') {
+    if (isset($_POST['delete-cart-submit'])) {
         $deletedrecord = $Cart->deleteCart($_POST['item_id']);
     }
 
-    if(isset($_POST['cart-submit'])){
+    if (isset($_POST['cart-submit'])) {
         $Cart->saveForLater($_POST['item_id'], 'cart', 'wishlist');
     }
 }
@@ -21,8 +21,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST'){
                 <?php
                 foreach ($product->getData('wishlist') as $item) :
                     $cart = $product->getProduct($item['item_id']);
-                    $subTotal[] = array_map(function ($item){
-                        ?>
+                    $subTotal[] = array_map(function ($item) {
+                ?>
                         <!-- cart item -->
                         <div class="row border-top py-3 mt-3">
                             <div class="col-sm-2">
@@ -65,12 +65,12 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST'){
 
                             <div class="col-sm-2 text-right">
                                 <div class="font-size-20 text-danger font-baloo">
-                                    $<span class="product_price" data-id="<?php echo $item['item_id'] ?? '0'; ?>"><?php echo $item['item_price'] ?? 0; ?></span>
+                                    ₹<span class="product_price" data-id="<?php echo $item['item_id'] ?? '0'; ?>"><?php echo $item['item_price'] ?? 0; ?></span>
                                 </div>
                             </div>
                         </div>
                         <!-- !cart item -->
-                        <?php
+                <?php
                         return $item['item_price'];
                     }, $cart); // closing array_map function
                 endforeach;
