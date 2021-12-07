@@ -31,10 +31,6 @@
 ![5vmfbx](https://user-images.githubusercontent.com/83113185/143600738-e2b57123-321f-4bff-8e6e-dd77423aadd4.gif)
 
 
-For Interactive experience,click on the __*run on repl.it*__ button below
-
- [![Run on Repl.it](https://repl.it/badge/github/4bdul4ziz/undefined)](https://repl.it/github/4bdul4ziz/undefined)
-
 
 <img src = "https://raw.githubusercontent.com/4bdul4ziz/HADES/master/assets/Banner1.png" width="100%">
 
